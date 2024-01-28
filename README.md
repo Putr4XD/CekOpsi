@@ -2,7 +2,7 @@
 Script Cek Opsi Facebook
 
 #### Install Script Di Termux
- Disarankan Untuk Memakai Termux Fdroid, Unduh Aplikasi Nya [Disini](https://f-droid.org/repo/com.termux_118.apk)
+ Disarankan Untuk Memakai Termux Dari Fdroid, Unduh Aplikasi Nya [Disini](https://f-droid.org/repo/com.termux_118.apk)
  ```
  $ pkg update -y && pkg upgrade -y
  $ pkg install python
